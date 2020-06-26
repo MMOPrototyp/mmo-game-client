@@ -90,19 +90,6 @@
                             <goal>copy-resources</goal>
                         </goals>
 
-                        <!-- copy single file -->
-                        <!-- <configuration>
-                            <outputDirectory>${basedir}/destination-folder</outputDirectory>
-                            <resources>
-                                <resource>
-                                    <directory>/source-folder</directory>
-                                    <includes>
-                                        <include>file.jar</include>
-                                    </includes>
-                                </resource>
-                            </resources>
-                        </configuration> -->
-
                         <configuration>
                             <outputDirectory>${basedir}/../data/maindata</outputDirectory>
                             <resources>
