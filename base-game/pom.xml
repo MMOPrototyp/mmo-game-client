@@ -28,7 +28,7 @@
             <version>${game.engine.version}</version>
         </dependency>
 
-        <dependency>
+        <!-- <dependency>
             <groupId>com.jukusoft</groupId>
             <artifactId>open-island-logic</artifactId>
             <version>${project.version}</version>
@@ -38,7 +38,7 @@
             <groupId>com.jukusoft</groupId>
             <artifactId>open-island-view</artifactId>
             <version>${project.version}</version>
-        </dependency>
+        </dependency> -->
     </dependencies>
 
     <build>
