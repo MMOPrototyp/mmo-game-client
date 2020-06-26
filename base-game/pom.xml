@@ -127,7 +127,6 @@
 
                             <!-- http://maven.apache.org/shared/maven-archiver/index.html -->
 
-                            <!-- <key>value</key> -->
                             <Implementation-Time>${maven.build.timestamp}</Implementation-Time>
 
                             <Implementation-Build>${buildNumber}-${scmBranch}</Implementation-Build>
